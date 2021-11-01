@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = renaud.gantois@gmail.com
+	name = Renaud Gantois
